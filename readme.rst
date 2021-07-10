@@ -63,8 +63,8 @@ Report security issues to our `Security Panel <mailto:security@codeigniter.com>`
 or via our `page on HackerOne <https://hackerone.com/codeigniter>`_, thank you.
 
 ***************
-Acknowledgement
+Hasil
 ***************
 
-The CodeIgniter team would like to thank EllisLab, all the
-contributors to the CodeIgniter project and you, the CodeIgniter user.
+![5](https://user-images.githubusercontent.com/55305366/125158353-dcc45680-e19a-11eb-8f8e-130d4be64ab4.png)
+
